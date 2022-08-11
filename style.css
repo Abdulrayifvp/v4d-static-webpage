@@ -1,0 +1,22 @@
+#nav{
+    color:white;
+
+}
+#nav:active{
+    color: orange;
+}
+#nav:hover{
+    
+    color: orange;
+    
+
+}
+a:hover{
+    text-decoration: none;
+}
+h4{
+    color: black;
+}
+#icon:hover{
+    font-size: 23px;
+}
